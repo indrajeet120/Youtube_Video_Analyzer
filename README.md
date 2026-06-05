@@ -108,10 +108,6 @@ https://www.youtube.com/watch?v=VIDEO_ID
 This project can be deployed on:
 
 * Streamlit Community Cloud
-* Render
-* Railway
-* AWS
-* Azure
 
 For Streamlit Cloud, add your secret:
 
